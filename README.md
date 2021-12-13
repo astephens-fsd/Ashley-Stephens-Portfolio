@@ -1,2 +1,2 @@
 # Ashley-Stephens-Portfolio
-Personal Portfolio bilkt with react/bootsrrap
+Personal Portfolio buit with react/bootstrap
